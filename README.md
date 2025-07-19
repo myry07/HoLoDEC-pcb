@@ -1,5 +1,5 @@
 # HoLoDEC-pcb
 
 <div align=center>
-	<img src="https://github.com/myry07/2.8inch-video-player/blob/main/04.Fotos/pcb1.jpg" width="500" height="310">
+	<img src="https://github.com/myry07/HoLoDEC-pcb/blob/main/pcb.jpg?raw=true" width="500" height="330">
 </div>
